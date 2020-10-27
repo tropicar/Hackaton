@@ -1,2 +1,2 @@
 # Hackaton-hello-world-polkadot
-Hackaton Hellow World by Polkadot
+Hackaton Hellow World by Polkadot.
